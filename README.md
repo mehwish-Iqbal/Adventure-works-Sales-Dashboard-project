@@ -150,7 +150,7 @@ The Product Detail Dashboard delivers a comprehensive view of individual product
 ## 👩‍💻 Author
 
 **Mehwish Gill**
-Aspiring Data Analyst | Power BI Enthusiast
+Junior Data Analyst 
 
 ---
 
